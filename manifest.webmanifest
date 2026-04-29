@@ -1,0 +1,32 @@
+{
+  "background_color": "#ffffff",
+  "description": "GOL_GUI",
+  "display": "standalone",
+  "name": "GOL_GUI",
+  "short_name": "GOL_GUI",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "package_00ad99b6144192e21a1b52dca662aa8178c5eb6c/icon-16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "package_00ad99b6144192e21a1b52dca662aa8178c5eb6c/icon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "package_00ad99b6144192e21a1b52dca662aa8178c5eb6c/icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "package_00ad99b6144192e21a1b52dca662aa8178c5eb6c/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
